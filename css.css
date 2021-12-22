@@ -1,0 +1,140 @@
+body, html {
+  height: 100%;
+  margin: 0px;
+  color: white;
+}
+
+body {
+  background-color: black;
+  font-family: "courier new", sans-serif;
+  display: block;
+}
+
+* {
+  display: block;
+}
+
+title {
+  display: none;
+}
+
+.white {
+  float: left;
+  color: white;
+  margin: 0
+}
+
+.link {
+  float: right;
+  margin: 0;
+}
+
+.title {
+  font-weight: 100;
+  font-size: 30px;
+  margin: 0;
+  background-color: black;
+}
+
+.bio {
+  width: 606px;
+  margin: 3% auto;
+}
+
+.label {
+  text-align: center;
+  margin: 3px 3px 0;
+}
+
+.label-bottom {
+  margin: 3px 0 0;
+}
+
+#buffer {
+  width: 250px;
+  height: 30%;
+  margin: 0 auto;
+}
+
+#small-buffer {
+  width: 100%;
+  height: 12.5%;
+}
+
+.small-title {
+  width: 350px;
+}
+
+.large-title {
+  width: 450px;
+}
+
+.manifesto {
+  letter-spacing: 10px;
+  font-size: 25px;
+  font-family: "Impact", sans-serif;
+  margin: 25px;
+  padding: 25px;
+  border: 1px solid white;
+}
+
+.manifesto-subtitle {
+  display: block;
+  width: 1200px;
+  font-size: 44px;
+  font-family: "Impact", sans-serif;
+  margin: 5px auto;
+}
+
+.manifesto-title {
+  display: block;
+  width: 1000px;
+  font-size: 149px;
+  font-family: "Impact", sans-serif;
+  margin: 5px auto;
+  margin-bottom: 50px;
+}
+
+#title-wrapper {
+  margin: 0 auto;
+}
+
+#banner {
+  text-align: center;
+  width: 100%;
+  height: 100px;
+  background-image: url(Media/WCFF.jpg);
+  background-position: center;
+  background-size: 100%;
+}
+
+#frame {
+  width: 600px;;
+  height: 600px;
+  margin: 13% auto;
+  border: 1px solid white;
+}
+
+#frame-noMargin {
+  width: 600px;
+  height: 600px;
+  margin: 0px auto;
+  border: 1px solid white;
+}
+
+.back-yellow {
+  background-color: none;
+}
+
+#imagWrapper {
+  width: 75%;
+  margin: 0 auto;
+  border: 1px solid white;
+}
+
+#label-wrapper {
+  width: 60%;
+  height: 7.5%;
+  margin: 2% auto;
+  border: 1px solid white;
+}
